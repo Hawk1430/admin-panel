@@ -17,3 +17,4 @@ The admin can add employee, delete employee and update existing data of employee
 ![Screenshot 1](https://github.com/user-attachments/assets/13f71155-265c-42e8-92b6-da125bac32bb)
 ![Screenshot 2](https://github.com/user-attachments/assets/afa22bed-a2a3-4601-908d-862031461b50)
 ![Screenshot 3](https://github.com/user-attachments/assets/b36ca8cc-1c6f-4860-a09b-bc94efc7096e)
+![Screenshot](https://github.com/user-attachments/assets/2a77a876-19e3-49db-9102-47b6007a6642)
